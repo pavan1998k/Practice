@@ -1,0 +1,5 @@
+class Java{
+	void main()
+	{
+	}	
+}
